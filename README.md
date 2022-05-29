@@ -2,7 +2,7 @@
 <h2 align="center">I am NINJA PEACE</h2>
 <h3 align="center">An intermediate Web Developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ninjapeace&label=Profile%20views&color=0e75b6&style=flat" alt="mrcowding" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ninjapeace&label=Profile%20views&color=0e75b6&style=flat" alt="ninjapeace" /> </p>
 
 - 🔭 I’m currently working on a **Big Project** but it is still on development 😋
 
