@@ -1,7 +1,8 @@
 <h2 align="center"><%= Hello World %></h2>
-<h2 align="center">I am NINJA PEACE</h2>
-<h3 align="center">An intermediate Web Developer from Indonesia</h3>
-
+<H2>< Introduce (() => {</H2>
+<H3 align="center">NINJA PEACE</H3>
+<H3 align="center">Intermediate Web Developer from Indonesia</H3>
+<H2>})()) /></H2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ninjapeace&label=Profile%20views&color=0e75b6&style=flat" alt="ninjapeace" /> </p>
 
 - 🔭 I’m currently working on a **Big Project** but it is still on development 😋
