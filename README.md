@@ -1,7 +1,7 @@
 ![Design and Development](https://github.com/NINJAPEACE/NINJAPEACE/blob/peace/bio.jpg)
 
 # NINJA PEACE
-I'm NINJA PEACE from Indonesia, and I like Design and Development. I still a high school student, and I enjoy to learn programming languages and frameworks like JavaScript, React and Vue. Also, I have a community named PEACE TEAM. I like to have a peace and calm moments with friends and family. Would you like to be one of them?
+I'm NINJA PEACE from Indonesia, and I like Design and Development. I still a high school student, and I enjoy to learn programming languages and frameworks like JavaScript, React and Vue. Also, I have a community named PEACE TEAM. I like to have peace and calm moments with friends and family. Would you like to be one of them?
 
 ## Skills and Experience
 * 💻 HTML, CSS, JS
