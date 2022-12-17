@@ -12,6 +12,7 @@ Want to contact or know me more?
 ## Skills and Experience
 * 💻 HTML, CSS, JS
 * 📠 TypeScript
+* 🗃 NodeJS
 * 📱 Vue.js
 
 ![](https://github-readme-stats.vercel.app/api?username=ninjapeace&&show_icons=true&title_color=ffffff&icon_color=4facfe&text_color=fff&bg_color=151515)
