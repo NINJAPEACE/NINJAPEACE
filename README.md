@@ -4,7 +4,7 @@
 Hi, I am NINJA PEACE. 
 A self-taught programmer and a high-schooler who likes programming and technology. Welcome to my profile, btw! 
 
-I loves to code and read. My current record is read 5 books in a month, and 2 days commits streak 💀
+I loves to code and read. My current record is read 5 books in a month, and 5 days commits streak 💀
 
 Experienced more than 2 years on functional programming, especially on Discord Bot's and Frontend Web Development. 
 
