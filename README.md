@@ -25,9 +25,4 @@ Well, I suggest you to check out my profile.
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ninjapeace&theme=react&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ninjapeace&theme=react&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ninjapeace&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
 <!-- Proudly created by GPRM check this out: ( https://gprm.itsvg.in ) --->
