@@ -1,16 +1,16 @@
 ![Design and Development](./bio.jpg) 
   
-## NINJA PEACE 
-Hi, I am NINJA PEACE. 
+## KENZIE ROOZEN
+Hi, I am Kenzie Roozen. 
 A self-taught programmer and a high-schooler who likes programming and technology. Welcome to my profile, btw! 
 
 I love to code and read. My current record is read 5 books in a month, and 5 days commits streak 💀
 
-Experienced more than 2 years on functional programming, especially on Discord Bot's and Frontend Web Development. 
+Experienced more than 5 years on functional programming, especially Fontend Web Development. 
 
 Well, I suggest you to check out my profile.
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/AKYCxM6HA4) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ninja_peace) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/NINJAPEACE95)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kenzie.roozen) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kenzieroozen)  
 
 ## My Skills
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
